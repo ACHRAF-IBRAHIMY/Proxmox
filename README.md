@@ -13,8 +13,8 @@
 - [Determine authentication method for Terraform to interact with Proxmox (user/pass vs API keys)](#)
 - [Terraform basic initialization and provider installation](#)
 - [Develop Terraform plan](#)
-- [Terraform plan](#author-info)
--[Run Terraform plan and watch the VMs appear]
+- [Terraform plan](#)
+- [Run Terraform plan and watch the VMs appear](#)
 ---
 
 ## Description
