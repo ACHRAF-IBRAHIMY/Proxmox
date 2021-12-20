@@ -1,17 +1,18 @@
-# Read Me Template
+# deploy VMs in Proxmox with Terraform
 
-![Project Image](project-image-url)
+![![k8s_terraform_cloudinit_proxmox](https://user-images.githubusercontent.com/96426756/146792568-03b49abc-14e1-4dfe-a517-241f4101d804.png)
+]
 
-> This is a ReadMe template to help save you time and effort.
-
+> 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
+
+- [Description](#Install Terraform)
+- [How To Use](#Determine authentication method for Terraform to interact with Proxmox (user/pass vs API keys))
+- [References](#Terraform basic initialization and provider installation
+)
 - [License](#license)
 - [Author Info](#author-info)
 
