@@ -14,7 +14,7 @@
 - [Terraform basic initialization and provider installation](#)
 - [Develop Terraform plan](#)
 - [Terraform plan](#author-info)
--[Run Terraform plan and watch the VMs appear!]
+-[Run Terraform plan and watch the VMs appear]
 ---
 
 ## Description
