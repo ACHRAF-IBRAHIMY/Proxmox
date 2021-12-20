@@ -1,7 +1,7 @@
 # deploy VMs in Proxmox with Terraform
 
-![![k8s_terraform_cloudinit_proxmox](https://user-images.githubusercontent.com/96426756/146792568-03b49abc-14e1-4dfe-a517-241f4101d804.png)
-]
+![k8s_terraform_cloudinit_proxmox](https://user-images.githubusercontent.com/96426756/146792568-03b49abc-14e1-4dfe-a517-241f4101d804.png)
+
 
 > 
 ---
@@ -9,9 +9,9 @@
 ### Table of Contents
 
 
-- [Description](#Install Terraform)
-- [How To Use](#Determine authentication method for Terraform to interact with Proxmox (user/pass vs API keys))
-- [References](#Terraform basic initialization and provider installation
+- [Install Terraform](#Install Terraform)
+- [Determine authentication method for Terraform to interact with Proxmox (user/pass vs API keys)](#Determine authentication method for Terraform to interact with Proxmox (user/pass vs API keys))
+- [Terraform basic initialization and provider installation](#Terraform basic initialization and provider installation
 )
 - [License](#license)
 - [Author Info](#author-info)
