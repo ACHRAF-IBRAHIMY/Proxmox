@@ -17,7 +17,7 @@
 - [Run Terraform plan and watch the VMs appear](#)
 ---
 
-## Description
+## Install Terraform
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
